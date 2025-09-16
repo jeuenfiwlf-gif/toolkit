@@ -1,5 +1,4 @@
-
-<p align="center">
+virusdelivery="center">
   <img src="res/at-logo.png">
 </p>
 
