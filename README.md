@@ -1,4 +1,4 @@
-virusdelivery="center">
+virusdeliverytotal="center">
   <img src="res/at-logo.png">
 </p>
 
